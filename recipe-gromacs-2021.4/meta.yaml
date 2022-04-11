@@ -8,7 +8,7 @@ build:
   number: 0
 
 source:
-  path: ../
+  url: https://ftp.gromacs.org/gromacs/gromacs-2021.4.tar.gz
 
 requirements:
   build:
